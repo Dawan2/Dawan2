@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dawan2.Dawan2&left_color=grey"  />
+  <img src="https://img.shields.io/github/stars/Dawan2/Dawan2?label=Visitors&style=flat&color=grey" />
 </div>
 
 ###
